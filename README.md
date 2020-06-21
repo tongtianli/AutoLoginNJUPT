@@ -1,4 +1,4 @@
-# AutoLogginNJUPT
+# AutoLoginNJUPT
 ## 南邮校园网辅助登陆
 ### 使用说明：
 在config文件里有三行配置，正确填写后运行联网程序就可以代为完成学校的网络验证了。
