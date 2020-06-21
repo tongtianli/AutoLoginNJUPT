@@ -7,7 +7,7 @@
 
 由于作者~~懒得考虑程序的健壮性了~~只有一天测试时间无法考虑太多因素，秉着能用就行的原则，希望大家多多注意格式，比如不要用中文冒号等，相信大家也会懂的。
 ### 题外话：
-代码思路收到了[NJUPT_Network_AutoLogin]:https://github.com/pdxgf1208/NJUPT_Network_AutoLogin的启发，并受到作者亲自指点。
+代码思路收到了[NJUPT_Network_AutoLogin](https://github.com/pdxgf1208/NJUPT_Network_AutoLogin)的启发，并受到作者亲自指点。
 
 为什么写这个脚本，其实主要是想吐槽一下学校联网的页面做的不尽人意，每天联网验证大概率会遇到令人头疼的问题。比如会出现连上WIFI或网线后能直接弹出验证窗口，但是没有浏览器自动填写密码的功能；填写p.njupt.edu.cn进行联网，第一次总是失败，跳转后才能成功。
 
